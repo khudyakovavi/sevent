@@ -18,7 +18,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'users',
-    'sports'
+    'sports',
+    'geo'
 ]
 
 MIDDLEWARE_CLASSES = [
