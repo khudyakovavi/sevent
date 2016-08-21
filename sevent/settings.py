@@ -19,7 +19,8 @@ INSTALLED_APPS = [
 
     'users',
     'sports',
-    'geo'
+    'geo',
+    'events'
 ]
 
 MIDDLEWARE_CLASSES = [
